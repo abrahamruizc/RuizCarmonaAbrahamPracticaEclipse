@@ -5,6 +5,6 @@ public class HelloWorld {
     //ESTO ES UN CAMBIO
 	public static void main(String args[])
     {
-        System.out.println("Hola Mundo desde github");
+        System.out.println("Hola Mundo desde github.");
     }
 }
